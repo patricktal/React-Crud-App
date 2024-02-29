@@ -1,6 +1,6 @@
 # App preview
-![BookApp1](/addBook.png)
-![BookApp2](/listBook.png)
+![BookApp1](../addBook.png)
+![BookApp2](../listBook.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
